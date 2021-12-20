@@ -26,7 +26,7 @@ class NotificationActivity : AppCompatActivity() {
                 NotificationManager
 
         btn.setOnClickListener {
-            val intent = Intent(this, LauncherActivity::class.java)
+            val intent = Intent(this, AfterNotification::class.java)
             val pendingIntent =
                 PendingIntent.getActivity(this, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT)
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {

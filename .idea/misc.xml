@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nisha Jain/FragmentsKotlin/app/src/main/res/layout/activity_after_notification.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/Nisha Jain/FragmentsKotlin/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/Nisha Jain/FragmentsKotlin/app/src/main/res/layout/activity_notification.xml" value="0.2484375" />
+        <entry key="..\:/Users/Nisha Jain/FragmentsKotlin/app/src/main/res/layout/activity_redirect.xml" value="0.23333333333333334" />
         <entry key="..\:/Users/Nisha Jain/FragmentsKotlin/app/src/main/res/layout/fragment_home.xml" value="0.2484375" />
         <entry key="..\:/Users/Nisha Jain/FragmentsKotlin/app/src/main/res/layout/fragment_settings.xml" value="0.2484375" />
       </map>
